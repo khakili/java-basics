@@ -3,4 +3,5 @@
     * [2.Integer](basic/Integer.md)
 * **2.集合类**
     * [1.ArrayList](collection/ArrayList.md)
+    * [2.LinkedList](collection/LinkedList.md)
    

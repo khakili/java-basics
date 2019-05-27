@@ -29,3 +29,17 @@ item的方法。
 3.将element放到数组index位置
 
 4.size++
+
+- 3.remove(int index)
+
+1.判断传入索引是否在集合范围内
+
+2.取出指定索引的item
+
+3.判断删除元素是否为最后一个，若不是则拷贝index+1及以后元素到index位置
+
+4.将数组最后一个元素设为null，帮助GC
+
+5.返回第2步中取出item
+
+### ArrayList fail-fast分析
