@@ -59,6 +59,7 @@ protected transient int modCount = 0;
 这个变量会在ArrayList执行修改操作的时候modCount++
 
 2.
+
 ```java
 private class Itr implements Iterator<E> {
         int cursor;       //初始化为0 index of next element to return
