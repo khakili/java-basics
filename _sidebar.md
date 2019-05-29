@@ -6,8 +6,8 @@
 	* [1.ArrayList](collection/ArrayList.md)
 	* [2.LinkedList](collection/LinkedList.md)
 	* [3.ArrayList与LinkedList异同](collection/ArrayListAndLinkedListDiff.md)
-	* [4.Vector]
-	* [5.Stack]
+	* [4.Vector](collection/Vector.md)
+	* [5.Stack](collection/Stack.md)
 * **Map**
 	* [1.HashTable]
 	* [2.HashMap]
