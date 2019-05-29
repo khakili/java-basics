@@ -1,18 +1,18 @@
-###ArrayList与LinkedList异同
+### ArrayList与LinkedList异同
 
-####相同点
+#### 相同点
 
 - 同为List接口的子类
 - 都是非线程安全的类
 - 在多线程下，修改集合都会抛出ConcurrentModificationException异常
 
-####不同点
+#### 不同点
 
 - ArrayList实现了RandomAccess接口，在Collections.binarySearch的时候可以快速查找
 - ArrayList内部结构为动态数组（线性表），查找快，新增和删除慢
 - LinkedList内部结构为链表，查找慢，新增和删除快
 
-####关于时间复杂度
+#### 关于时间复杂度
 
 ||ArrayList|LinkedList|
 |:--------:|:-------:|:-------:|
