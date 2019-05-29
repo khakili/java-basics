@@ -23,8 +23,7 @@
 
 >>以下内容转自[stackoverflows](https://stackoverflow.com/questions/322715/when-to-use-linkedlist-over-arraylist-in-java/322742#322742)
 
->
-LinkedList and ArrayList are two different implementations of the List interface. LinkedList implements it with a doubly-linked list. ArrayList implements it with a dynamically re-sizing array.
+>LinkedList and ArrayList are two different implementations of the List interface. LinkedList implements it with a doubly-linked list. ArrayList implements it with a dynamically re-sizing array.
 
 >As with standard linked list and array operations, the various methods will have different algorithmic runtimes.
 
