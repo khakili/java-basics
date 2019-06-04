@@ -10,7 +10,7 @@
 	* [5.Stack](collection/Stack.md)
 * **Map**
 	* [1.HashTable]
-	* [2.HashMap]
+	* [2.HashMap](map/HashMap.md)
 	* [3.LinkedHashMap]
 	* [4.WeakHashMap]
 	* [5.TreeMap]
